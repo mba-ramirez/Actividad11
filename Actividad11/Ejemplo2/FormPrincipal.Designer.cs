@@ -62,7 +62,6 @@
             label1.Size = new Size(38, 17);
             label1.TabIndex = 3;
             label1.Text = "Valor";
-            label1.Click += label1_Click;
             // 
             // lbPromedio
             // 

@@ -9,11 +9,6 @@ namespace Ejemplo2
             InitializeComponent();
         }
 
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void btnRegistrar_Click(object sender, EventArgs e)
         {
 
@@ -22,11 +17,6 @@ namespace Ejemplo2
             contador++;
 
             tbValor.Clear();
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
         }
 
         private void btnPromedio_Click(object sender, EventArgs e)
